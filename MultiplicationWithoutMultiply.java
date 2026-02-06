@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class MultiplicationWithoutMultiply {
 
     // Function to add two numbers using bitwise operators
